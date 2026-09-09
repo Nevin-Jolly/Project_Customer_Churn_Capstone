@@ -1,0 +1,32 @@
+# Final Capstone Submission Checklist
+
+- [x] Specific project title and correct Project 4 dataset
+- [x] Abstract
+- [x] Dataset dimensions and important variables
+- [x] Missing values / blank values checked
+- [x] Duplicate records checked
+- [x] Data types checked and corrected
+- [x] IQR outlier analysis documented
+- [x] Cleaning decisions explained
+- [x] EDA with readable, numbered and interpreted figures
+- [x] Prediction target clearly defined
+- [x] Identifier excluded from modelling
+- [x] Stratified train/test split
+- [x] Leakage-safe preprocessing pipeline
+- [x] Logistic Regression baseline
+- [x] Random Forest model
+- [x] Accuracy, precision, recall, F1-score and confusion matrix
+- [x] ROC-AUC included as an additional metric
+- [x] Training vs testing performance comparison
+- [x] False-negative business impact discussed
+- [x] Five evidence-based findings
+- [x] Five actionable recommendations
+- [x] Limitations and future work
+- [x] References
+- [x] Notebook contains executable workflow and outputs
+- [x] PDF report included
+- [x] Original and cleaned datasets included
+- [x] Visualizations included
+- [ ] Replace `[Student Name]`, `[Institute Name]`, and `[Roll Number]` on the cover page before submission
+- [ ] Proofread the final PDF after replacing personal details
+- [ ] Confirm the public GitHub/Drive link opens in an incognito browser
